@@ -1,0 +1,95 @@
+{
+  "info": "",
+  "global_black_list": ["реклама", "#sponsored"],
+  "chats":
+    {
+          "1248446439":
+          {
+            "name": "читальня чат",
+            "all": true,
+            "letters_count": 300,
+            "repost_link": ["https://t.me/horus_for_Zayaz"],
+            "users": [],
+            "whitelist": [],
+            "blacklist": ["настолка", "приобретайте","хуй"],
+            "mp3_file": "",
+            "white_list_mp3_file": "ахтунг.wav"
+          },
+          "1521581372":
+          {
+            "name": "проба канал",
+            "all": true,
+            "letters_count": 3,
+            "repost_link": [455613342],
+            "users": ["455613342"],
+            "whitelist": ["открыл позицию", "купил", "продал"],
+            "blacklist": ["реклама", "#sponsored"],
+            "mp3_file": "va.mp3",
+            "white_list_mp3_file": "ахтунг.wav"
+          },
+          "507386770":
+          {
+            "name": "проба чат",
+            "all": false,
+            "letters_count": 3,
+            "repost_link": [455613342],
+            "users": ["vponed"],
+            "whitelist": ["открыл позицию", "купил", "продал"],
+            "blacklist": ["реклама", "#sponsored"],
+            "mp3_file": "va.mp3",
+            "white_list_mp3_file": "ахтунг.wav"
+          },
+          "1435155550":
+          {
+            "name": "Вадим трейд",
+            "all": false,
+            "letters_count": 3,
+            "repost_link": [1413921471],
+            "users": ["vadimtrading"],
+            "whitelist": ["открыл позицию", "купил", "продал"],
+            "blacklist": ["реклама", "#sponsored"],
+            "mp3_file": "va.mp3",
+            "white_list_mp3_file": "ахтунг.wav"
+          },
+          "1472030873":
+          {
+                "name": "Опционный чат",
+                "all": false,
+                "letters_count": 3,
+                "repost_link": [1413921471],
+                "users":["si_trader","kdenis","KarL$oH",990063879,"@Zmeetarzi"],
+                "whitelist": ["открыл позицию", "купил", "продал"],
+                "blacklist": ["реклама", "#sponsored"],
+                "mp3_file": "opt.mp3",
+                "white_list_mp3_file": "ахтунг.wav"
+          },
+          "1361595244":
+          {
+          "name": "Профитгейт чат",
+            "all": false,
+            "letters_count": 3,
+            "repost_link": [1413921471],
+          "users": ["@Krechetov_profitgate"],
+          "whitelist": ["открыл позицию", "купил", "продал"],
+          "blacklist": ["реклама", "#sponsored"],
+          "mp3_file": "kre.mp3",
+            "white_list_mp3_file": "ахтунг.wav"
+          },
+          "1203560567":
+          {
+          "name": "Маркет твитс",
+            "all": true,
+            "letters_count": 0,
+            "repost_link": [1413921471],
+          "users": [],
+          "whitelist": [""],
+          "blacklist": ["реклама", "#sponsored","#rtkm","#btc","#крипто","путин","путину","#украина","#шторм","#пандемия",
+            "вакцина","#uber","крипта","#понедельник","#пятница","атон","акции сша в моменте","акции рф в моменте","fx","опрос","#fb","#ar","#vr","#аукцион","#googl",
+            "#gmkn","#pzza","most active","#rasp","#nvda","#vsmo","#бюджет","#аукцион","каеада","#pogr","#выборы","гонконг","nvtk","#fl","#бразилия","каннабис",
+            "#de","#spot","#fees","#rsti","#ipo","#листинг","#vw","#yndx","#binance","#mtss","#smlt","#pypl"
+          ,"#нзеландия","#уголь","#аптеки","#veon","#fx","#ипотека","#тв","#круизы","#pton"],
+          "mp3_file": "twits.mp3",
+            "white_list_mp3_file": "ахтунг.wav"
+          }
+      }
+      }
