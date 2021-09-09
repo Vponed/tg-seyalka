@@ -29,16 +29,16 @@ def inlist_check(list, message): # функция проверяльщик
 			return True
 	return False
 
-	def logger(title, whitelist, blacklist, message_text, datetime):  # title,whitelist,blacklist,message,datetime
-		print(title)
-		print("whitelist:", whitelist)
-		print("black_list:", blacklist)
-		try:
-			print(message_text)
-		except:
-			pass
-		print(datetime)
-		return
+def logger(title, whitelist, blacklist, message_text, datetime):  # title,whitelist,blacklist,message,datetime
+	print(title)
+	print("whitelist:", whitelist)
+	print("black_list:", blacklist)
+	try:
+		print(message_text)
+	except:
+		pass
+	print(datetime)
+	return
 
 
 def settings_load(): # чтение настроек из файла
