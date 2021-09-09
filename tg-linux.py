@@ -2,15 +2,13 @@
 from telethon import TelegramClient, events # клиент телеграм
 import json									# для разбора json
 import desktop_notify						# библиотека уведомлений
-import subprocess							#
-import os									#
+import subprocess																#
 
 if "init_var":		# определяем переменные
 	interval = 60
 	api_id = # надо получить api id и hash на сайте телеграм
 	api_hash = ''
 	my_channel_id = 't.me/message_alerter'
-	path_to_app = os.getcwd()
 
 def play_sound(play_command,mp3_file_):
 	p = subprocess.Popen([play_command, mp3_file_], shell=False)	#, stdout=subprocess.PIPE, creationflags=subprocess.CREATE_NO_WINDOW)
